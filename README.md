@@ -14,7 +14,7 @@ $ String.sample_colors
 
 The gem is then used by calling the color methods on a string :
 & puts "test string".blue
-#=> returns "test string" formated in blue color
+=> returns "test string" formated in blue color
 
 # Installation
 To generate the Gem, build it using gemspec
