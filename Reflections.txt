@@ -1,0 +1,8 @@
+How does your gem take advantage of Ruby’s metaprogramming capabilities?
+-By dynamically creating methods from a hash
+How long did you spend working on this project?
+-2-3 hours
+What was the most rewarding challenge you conquered?
+-How easy it was to define new methods
+Where do you still have room to grow?
+-Still with the hashed :)

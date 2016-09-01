@@ -1,5 +1,5 @@
 # Colorizr
-v. colorizr-0.0.2
+v. colorizr-0.0.3
 
 # About
 Colorizr is a Ruby Gem that formats the colors of the strings
@@ -21,7 +21,7 @@ To generate the Gem, build it using gemspec
 & gem build colorizr.gemspec
 
 Then install the gem:
-$gem install colorizr-0.0.2.gem
+$gem install colorizr-0.0.3.gem
 
 To use the Gem in an application:
 
